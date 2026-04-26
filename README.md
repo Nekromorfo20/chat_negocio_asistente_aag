@@ -1,4 +1,4 @@
-## Proyecto Node y OpenAI - Chatbot negocia asistentes
+## Proyecto Node y OpenAI - Chatbot negocio asistentes
 ### 26-Abril-2026
 
 ### Ejecutar en dev
